@@ -1,7 +1,7 @@
 
 # A Game Creator from India. 
 ## Typical egotistical game developer that creates dumb games out of passion.
-## TEAM // FOUNDER: Deceilio & Eight Alive
+## TEAM // FOUNDER: Deceilio & 8 Alive
 ### Currently Working On: "Chained Psychics" // "Psychain" Game!
 
 
