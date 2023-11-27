@@ -2,7 +2,7 @@
 ## Typical egotistical game developer that creates dumb games out of passion.
 ## TEAM // FOUNDER: Deceilio & 8 Alive
 ### Currently Working On: "Chained Psychics" // "Psychain" Game!
-### ‎ ‎ 
+### ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 
 
 <p align="center">
  <a href="https://adnanyousuf.wixsite.com/adnanyousuf" target="blank">
@@ -20,9 +20,9 @@
 </p>
 <br />
 
-<!-- About Section -->
+<!-- About Section 
  # About me
- 
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -36,7 +36,8 @@
 <br/>
 <br/>
 <br/>
-
+ -->
+ 
 ## Use To Code
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
