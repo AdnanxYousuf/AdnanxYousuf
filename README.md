@@ -90,7 +90,7 @@
 
 <a> 
     <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AdnanxYousuf&theme=highcontrast" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AdnanxYousuf&theme=highcontrast" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AdnanxYousuf&show_icons=true&theme=highcontrast" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
