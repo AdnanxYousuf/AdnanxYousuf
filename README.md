@@ -20,6 +20,10 @@
 </p>
 <br />
 
+<br/>
+<hr/>
+<br/>
+
 <!-- About Section 
  # About me
 
