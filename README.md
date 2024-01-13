@@ -19,9 +19,6 @@
  </a> 
 </p>
 
-<hr/>
-
-
 <!-- About Section 
  # About me
 
