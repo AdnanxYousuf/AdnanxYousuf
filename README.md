@@ -3,9 +3,6 @@
 ## TEAM // FOUNDER: Deceilio
 ### Currently Working On: "Chained Psychics" // "Psychain" Game!‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 
 
-<br>
-<br/>
-
 <p align="center">
  <a href="https://adnanyousuf.wixsite.com/adnanyousuf" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adnan" />
@@ -20,6 +17,9 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
 </p>
+<br>
+<br/>
+
 
 <!-- About Section 
  # About me
