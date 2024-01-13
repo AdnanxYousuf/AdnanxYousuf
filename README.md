@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
 </p>
-<p align="center">
-  <a href="https://github.com/AdnanxYousuf?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<hr/>
+<br/>
 
 <!-- About Section 
  # About me
