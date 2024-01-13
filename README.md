@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
 </p>
-<br>
-<br/>
 
 
 <!-- About Section 
