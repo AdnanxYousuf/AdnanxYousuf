@@ -1,8 +1,7 @@
 # A Game Creator from India 🇮🇳. 
 ## 𝐀𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐠𝐚𝐦𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐭𝐡𝐚𝐭 𝐜𝐫𝐞𝐚𝐭𝐞𝐬 𝐝𝐮𝐦𝐛 𝐠𝐚𝐦𝐞𝐬 𝐨𝐮𝐭 𝐨𝐟 𝐩𝐚𝐬𝐬𝐢𝐨𝐧.
 ## TEAM // FOUNDER: Deceilio
-### Currently Working On: "Chained Psychics" // "Psychain" Game!
-### ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 
+### Currently Working On: "Chained Psychics" // "Psychain" Game!‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 
 
 <p align="center">
  <a href="https://adnanyousuf.wixsite.com/adnanyousuf" target="blank">
