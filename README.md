@@ -63,7 +63,6 @@
 <p align="center">
   <a href="https://github.com/AdnanxYousuf?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <hr/>
 <br/>
 
@@ -80,7 +79,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AdnanxYousuf&theme=highcontrast" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AdnanxYousuf&theme=highcontrast" height="192px" width="49.5%"/></a>
   <a href="https://github.com/AdnanxYousuf"><img alt="Adnan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanxYousuf&layout=compact&theme=highcontrast" height="192px" width="49.5%"/></a>
   <br/>
 </a>
