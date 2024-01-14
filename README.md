@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/AdnanxYousuf">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanxYousuf&theme=highcontrast" alt="Adnan's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanxYousuf&theme=highcontrast" alt="Adnan Yousuf's GitHub Contribution"/>
   </a>
 </p>
 
