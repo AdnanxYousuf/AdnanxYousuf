@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/adnanxyousuf">
-    <img src="https://streak-stats.demolab.com/?user=AdnanxYousuf&theme=highcontrast" alt="Adnan's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=AdnanxYousuf&theme=highcontrast" alt="Adnan Yousuf's GitHub streak"/>
   </a>
 </p>
 
