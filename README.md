@@ -1,20 +1,17 @@
 # A Game Creator from India 🇮🇳. 
 ## 𝐀𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐠𝐚𝐦𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐭𝐡𝐚𝐭 𝐜𝐫𝐞𝐚𝐭𝐞𝐬 𝐝𝐮𝐦𝐛 𝐠𝐚𝐦𝐞𝐬 𝐨𝐮𝐭 𝐨𝐟 𝐩𝐚𝐬𝐬𝐢𝐨𝐧
 ## TEAM // FOUNDER: Lumimoth
-### Currently Working On: "Veldarune"‎ 
+### Currently Working On: "Phantomware 0"‎ 
 
 <hr/>
 <p align="center">
- <a href="https://adnanyousuf.wixsite.com/adnanyousuf" target="blank">
+ <a href="https://lumimoth.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adnan" />
  </a>
  <a href="https://linkedin.com/in/adnanxyousuf" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan"/>
  </a>
- <a href="https://twitter.com/adnanxyousuf" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/adnanxyousuf" target="_blank">
+ <a href="https://instagram.com/eiryudev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
 </p>
