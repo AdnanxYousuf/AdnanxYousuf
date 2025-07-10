@@ -78,7 +78,7 @@
 <hr/>
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdnanxYousuf&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdnanxYousuf&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
