@@ -77,4 +77,11 @@
 </a>
 <hr/>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AdnanxYousuf&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/AdnanxYousuf?label=Follow&style=social)](https://github.com/AdnanxYousuf)
+
+</div>
+
 <!---![Adnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdnanxYousuf&custom_title=Adnan%20Yousuf's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)>
