@@ -78,6 +78,10 @@
 <hr/>
 
 <div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdnanxYousuf&theme=radical)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AdnanxYousuf&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/AdnanxYousuf?label=Follow&style=social)](https://github.com/AdnanxYousuf)
