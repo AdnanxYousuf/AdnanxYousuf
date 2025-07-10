@@ -7,7 +7,6 @@
 <!-- profile-3d-contrib 3D贡献图-->
 </div>
  
-![GitHub City](https://github-readme-stats.vercel.app/api/wakatime?username=AdnanxYousuf&layout=city&theme=dark)
-
+[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-View_My_City-blue?style=flat&logo=github)](https://skyline.github.com/AdnanxYousuf/2025)
 
 
