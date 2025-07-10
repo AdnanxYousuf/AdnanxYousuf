@@ -65,12 +65,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/adnanxyousuf">
-    <img src="https://streak-stats.demolab.com/?user=AdnanxYousuf&theme=highcontrast" alt="Adnan Yousuf's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/AdnanxYousuf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanxYousuf&theme=highcontrast" alt="Adnan Yousuf's GitHub Contribution"/>
   </a>
