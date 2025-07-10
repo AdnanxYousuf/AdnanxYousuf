@@ -16,8 +16,8 @@ jobs:
 
       - name: Auto green
         run: |
-          git config --local user.email "2368603522@qq.com"
-          git config --local user.name "ng-fukgin"
+          git config --local user.email "game@lumimoth.com"
+          git config --local user.name "adnanxyousuf"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "日常点亮一次"
