@@ -5,8 +5,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/adnanxyousuf/adnanxyousuf/assets/messagif.gif" />
 </picture>
 <!-- profile-3d-contrib 3D-->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![3D GitHub Profile](https://raw.githubusercontent.com/AdnanxYousuf/AdnanxYousuf/main/profile-3d-contrib/profile-green-animate.svg)
+![3D GitHub Profile](https://raw.githubusercontent.com/AdnanxYousuf/AdnanxYousuf/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
